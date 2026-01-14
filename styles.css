@@ -1,0 +1,37 @@
+body {
+font-family: Arial, sans-serif;
+background: #f4f4f4;
+padding: 20px;
+}
+
+
+h1 {
+text-align: center;
+}
+
+
+form {
+display: flex;
+gap: 10px;
+margin-bottom: 20px;
+}
+
+
+input, select, button {
+padding: 8px;
+}
+
+
+.resumen {
+margin-bottom: 20px;
+}
+
+
+ul {
+list-style: none;
+padding: 0;
+}
+
+
+li.ingreso { color: green; }
+li.egreso { color: red; }
